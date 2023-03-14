@@ -1,0 +1,68 @@
+{
+  "subscription_plans": [
+    {
+      "name": "Pro",
+      "price": 165.0,
+      "bill_period": 3,
+      "bill_interval": "month",
+      "bill_interval_verbose": "Quarterly",
+      "account_quantity": 50
+    },
+    {
+      "name": "Starter",
+      "price": 75,
+      "bill_period": 1,
+      "bill_interval": "month",
+      "bill_interval_verbose": "Monthly",
+      "account_quantity": 50
+    },
+    {
+      "name": "Pro",
+      "price": 82.5,
+      "bill_period": 3,
+      "bill_interval": "month",
+      "bill_interval_verbose": "Quarterly",
+      "account_quantity": 25
+    },
+    {
+      "name": "Starter",
+      "price": 37.5,
+      "bill_period": 1,
+      "bill_interval": "month",
+      "bill_interval_verbose": "Monthly",
+      "account_quantity": 25
+    },
+    {
+      "name": "Pro",
+      "price": 330,
+      "bill_period": 3,
+      "bill_interval": "month",
+      "bill_interval_verbose": "Quarterly",
+      "account_quantity": 100
+    },
+    {
+      "name": "Starter",
+      "price": 150,
+      "bill_period": 1,
+      "bill_interval": "month",
+      "bill_interval_verbose": "Monthly",
+      "account_quantity": 100
+    },
+    {
+      "name": "Pro",
+      "price": 495,
+      "bill_period": 3,
+      "bill_interval": "month",
+      "bill_interval_verbose": "Quarterly",
+      "account_quantity": 150
+    },
+    {
+      "name": "Starter",
+      "price": 225,
+      "bill_period": 1,
+      "bill_interval": "month",
+      "bill_interval_verbose": "Monthly",
+      "account_quantity": 150
+    }
+  ]
+}

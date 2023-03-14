@@ -1,0 +1,66 @@
+
+
+.ql-toolbar {
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    gap: 10px;
+    position: absolute;
+    bottom: 15px;
+    left: 20px;;
+
+}
+
+.ql-formats {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.ql-editor {
+    width: inherit;
+    height: inherit;
+    outline: none;
+    border: none;
+}
+
+.ql-clipboard {
+    display: none;
+}
+
+.ql-toolbar button {
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-position: center;
+    cursor:pointer;
+    border:none;
+    border-radius:2px;
+    outline:none;
+    width:25px;
+    height:25px;
+
+}
+
+.ql-toolbar span:nth-child(1) button:nth-child(1) {
+    background-image: url('../../Images/bold.svg');
+
+}
+.ql-toolbar span:nth-child(1) button:nth-child(2) {
+    background-image: url('../../Images/italic.svg');
+
+}
+.ql-toolbar span:nth-child(2) button:nth-child(1) {
+    background-image: url('../../Images/bullet.svg');
+
+}
+.ql-toolbar span:nth-child(2) button:nth-child(2) {
+    background-image: url('../../Images/list.svg');
+
+}
+
+
+button>svg {
+    display: none;
+}

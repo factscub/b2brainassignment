@@ -1,0 +1,166 @@
+{
+  "accounts": [
+    {
+      "name": "Apple",
+      "website": "apple.com",
+      "logo": "https://cdn.b2brain.com/media/logos/apple-inc-o1_20211124121358",
+      "location": "Cupertino, CA",
+      "industry": "Software & Technology",
+      "intels": [
+        {
+          "identifier": "jmessV",
+          "title": "iPhone - Apple",
+          "url": "https://www.apple.com/iphone/",
+          "snippet": "Get credit toward a new iPhone when you trade in an eligible smartphone . And\npay for your new iPhone over 24 months, interestfree when you choose to check\nout with Apple Card Monthly Installments .\n\n",
+          "publisher": "Apple",
+          "intel_type": "Stores & Locations",
+          "published_date": "10 Feb 2023",
+          "talking_points": "Talking point for iphone\n\n",
+          "leads": [{
+              "last_name": "Bisht",
+              "pic": "https://cdn.b2brain.com/static/layout/img/usr_init_imgs/SM.png",
+              "designation": "Associate Vice President Marketing",
+              "first_name": "Sinha"
+            },
+            {
+              "last_name": "Sonal",
+              "pic": "https://cdn.b2brain.com/static/layout/img/usr_init_imgs/SS.png",
+              "designation": "Associate Director - Brand Solutions",
+              "first_name": "Sujoy"
+            },
+            {
+              "last_name": "Mishra",
+              "pic": "https://cdn.b2brain.com/static/layout/img/usr_init_imgs/SB.png",
+              "designation": "Sales Manager",
+              "first_name": "Sidharth"
+            }]
+        }
+      ]
+    },
+    {
+      "name": "BYJU'S",
+      "website": "byjus.com",
+      "logo": "https://cdn.b2brain.com/media/logos/byjus_20211124095428",
+      "location": "Bengaluru, Karnataka, India",
+      "industry": "Business Services",
+      "intels": [
+        {
+          "identifier": "2Pa23e",
+          "title": "Byju\u2019s founder backs startup in $800 million funding at $22 billion valuation",
+          "url": "https://techcrunch.com/2022/03/11/byju-raveendran-invests-400-million-in-his-edtech-startup/",
+          "snippet": "Byju Raveendran, the co-founder and chief executive of eponymous Indian edtech\ngiant Byju\u2019s, has invested $400 million into the startup, the two said on\nFriday.\n\nHis backing is part of a larger $800 million round Byju\u2019s has secured, the\nBengaluru-headquartered startup said.  \n\nSumeru Ventures, Vitruvian Partners and BlackRock also invested in the round,\na name of which the startup did not disclose. The round values Byju\u2019s at about\n$22 billion, a person familiar with the matter said. The financing comes at a\ntime when Byju\u2019s is widely expected to file for an initial public offering.  \n\n",
+          "publisher": "TechCrunch",
+          "intel_type": "Investment, Fund Raises & Finance",
+          "published_date": "11 Mar 2022",
+          "talking_points": "Byju's founder invests $400 million into the start-up, following market\nexpectations of an IPO. This would be a strategically sound point to review\nall tools and products and their utilization.\n\n",
+          "leads": []
+        },
+        {
+          "identifier": "XBROPU",
+          "title": "BYJU\u2019S Appoints Former Facebook Tech Lead Majid Yazdani as VP, BYJU\u2019S Lab to Scale Research and Innovation Vertical",
+          "url": "https://www.businesswire.com/news/home/20220322005848/en/BYJU%E2%80%99S-Appoints-Former-Facebook-Tech-Lead-Majid-Yazdani-as-VP-BYJU%E2%80%99S-Lab-to-Scale-Research-and-Innovation-Vertical",
+          "snippet": "BYJU\u2019S, the world\u2019s leading edtech company, today announced the appointment of\nMajid Yazdani as Vice President at BYJU\u2019S Lab to propel and further shape the\nfuture of education. Working on personalisation and other AI applications to\nthe education sector, Majid will be responsible for incubating new ideas and\ndelivering breakthrough solutions across BYJU\u2019S ecosystem of learning products\nat BYJU\u2019S Lab. Majid, will be operating from the United Kingdom, will set up a\nteam of research scientists to work on innovative and powerful learning\nexperiences for students.\n\n  \n\nBYJU'S Lab, launched in 2021, aims to be an incubator of new ideas, provide\ncutting-edge technologies and deliver breakthrough solutions across BYJU\u2019S\necosystem of learning products. Students are at the center of the innovation\nhub, which strives to develop impactful learning experiences by integrating\ntechnologies like augmented reality, AI, computer vision capabilities,\ngamification, and more.\n\nAs a global company with sustained growth and international expansion, BYJU\u2019S\nis attempting to tap further into the global talent pool by actively\nrecruiting a wide range of applicants in the United Kingdom, the United\nStates, and India.\n\n",
+          "publisher": "Business Wire Inc.",
+          "intel_type": "Hirings & Openings",
+          "published_date": "22 Mar 2022",
+          "talking_points": "Byju's focuses on scaling its Innovation vertical with the appointment of a\nnew VP for Byju's Lab. Operationally, optimizing their SaaS stack and task\nautomation would accelerate this strategy.\n\n",
+          "leads": [
+            {
+              "last_name": "Biju",
+              "pic": "https://cdn.b2brain.com/static/layout/img/usr_init_imgs/SB.png",
+              "designation": "Manager - Sales",
+              "first_name": "Shilpika"
+            },
+            {
+              "last_name": "Krishnan",
+              "pic": "https://cdn.b2brain.com/static/layout/img/usr_init_imgs/BK.png",
+              "designation": "Sales Manager",
+              "first_name": "Borah"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Unacademy",
+      "website": "http://www.unacademy.com",
+      "logo": "https://cdn.b2brain.com/media/logos/unacademy_20211124074138",
+      "location": "Bengaluru, Karnataka, India",
+      "industry": "Software & Technology",
+      "intels": [
+        {
+          "identifier": "w3JQB",
+          "title": "Unacademy becomes first-ever edtech startup to offer stock options to educators",
+          "url": "https://yourstory.com/2021/07/unacademy-teacher-stock-options-educators-edtech-startup/amp",
+          "snippet": "In a one-of-a-kind move, edtech unicorn \ufeffUnacademy\ufeff will offer stock options\nto its educators, the first-ever firm in the edtech space to do so. The\ndevelopment comes at a time when giants such as Flipkart and Ola are offering\nESOPs to their employees.\n\nSo far, no startup has given stock options to their gig workers.\n\nOver the next few years, the Teacher Stock Options or TSOPs worth $40 million\nwill be given to tutors who have spent three, four or five years on the\nplatform, the Bengaluru-based firm's Co-founder and CEO Gaurav Munjal said in\na tweet on Thursday.\n\n",
+          "publisher": "YourStory",
+          "intel_type": "Investment, Fund Raises & Finance",
+          "published_date": "29 Jul 2021",
+          "talking_points": null,
+          "leads": [
+            {
+              "first_name": "Roman",
+              "last_name": "Saini",
+              "pic": "https://cdn.b2brain.com/static/layout/img/usr_init_imgs/RS.png",
+              "designation": "Co Founder"
+            }
+          ]
+        },
+        {
+          "identifier": "RW0123j",
+          "title": "Toppr raises $46 million to scale its online learning platform in India \u2013",
+          "url": "https://techcrunch.com/2020/07/28/toppr-raises-46-million-to-scale-its-online-learning-platform-in-india/",
+          "snippet": "Byju\u2019s, India\u2019s most valuable edtech startup, raised about $23 million from\nMary Meeker\u2019s Bond last month. Unacademy, another learning platform in India,\nacquired a smaller firm PrepLadder for about $50 million earlier this month.\nAnd two weeks ago, Vedantu said it had secured $100 million in a fresh\nfinancing round.Toppr, one of the largest online learning startups in India,\nhas secured $46 million in a new financing round as it looks to scale its\nplatform including a new product..\n\n",
+          "publisher": "TechCrunch",
+          "intel_type": "Investment, Fund Raises & Finance",
+          "published_date": "29 Jul 2020",
+          "talking_points": null,
+          "leads": [
+            {
+              "last_name": "Saini",
+              "pic": "https://cdn.b2brain.com/static/layout/img/usr_init_imgs/RS.png",
+              "designation": "Co Founder",
+              "first_name": "Roman"
+            },
+            {
+              "last_name": "Munjal",
+              "pic": "https://cdn.b2brain.com/static/layout/img/usr_init_imgs/GM.png",
+              "designation": "Co-Founder and Chief Executive Officer",
+              "first_name": "Gaurav"
+            },
+            {
+              "last_name": "Shroff",
+              "pic": "https://cdn.b2brain.com/static/layout/img/usr_init_imgs/KS.png",
+              "designation": "Partner & Chief Marketing Officer",
+              "first_name": "Karan"
+            },
+            {
+              "last_name": "Tandon",
+              "pic": "https://cdn.b2brain.com/static/layout/img/usr_init_imgs/AT.png",
+              "designation": "Vice President Business",
+              "first_name": "Ankita"
+            },
+            {
+              "last_name": "Kailash",
+              "pic": "https://cdn.b2brain.com/static/layout/img/usr_init_imgs/KK.png",
+              "designation": "Vice President of Sales",
+              "first_name": "Karthik"
+            },
+            {
+              "last_name": "Sivasankaran",
+              "pic": "https://cdn.b2brain.com/static/layout/img/usr_init_imgs/SS.png",
+              "designation": "Director, Marketing",
+              "first_name": "Shweta"
+            },
+            {
+              "last_name": "Asghar",
+              "pic": "https://cdn.b2brain.com/static/layout/img/usr_init_imgs/SA.png",
+              "designation": "Associate Director - Sales",
+              "first_name": "Saif"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
